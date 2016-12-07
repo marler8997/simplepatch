@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplepatch", "simplepatch.vcproj", "{6396E851-7B9C-456A-A9B8-F95F1D8D21F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplediff", "simplediff.vcproj", "{8B34D2EA-FA3A-43BC-868A-C2E9E0A05641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6396E851-7B9C-456A-A9B8-F95F1D8D21F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6396E851-7B9C-456A-A9B8-F95F1D8D21F1}.Debug|Win32.Build.0 = Debug|Win32
+		{6396E851-7B9C-456A-A9B8-F95F1D8D21F1}.Release|Win32.ActiveCfg = Release|Win32
+		{6396E851-7B9C-456A-A9B8-F95F1D8D21F1}.Release|Win32.Build.0 = Release|Win32
+		{8B34D2EA-FA3A-43BC-868A-C2E9E0A05641}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B34D2EA-FA3A-43BC-868A-C2E9E0A05641}.Debug|Win32.Build.0 = Debug|Win32
+		{8B34D2EA-FA3A-43BC-868A-C2E9E0A05641}.Release|Win32.ActiveCfg = Release|Win32
+		{8B34D2EA-FA3A-43BC-868A-C2E9E0A05641}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
